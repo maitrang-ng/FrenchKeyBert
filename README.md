@@ -10,8 +10,7 @@ For option of using server, please insert json format and use postman to test.
 Please ensure the following requirements are satisfied:
 * OS system: Linux or Mac OS
 * Python 3
-* You have installed Virtual Environement for Python
-* Downloaded the project to your folder
+* You have installed Virtual Environement for Python (pipenv)
 
 ## Installation
 Open your CLI, go to the project path and run following commands
