@@ -1,0 +1,11 @@
+spacy
+spacy-transformers
+sentence_transformers
+regex
+sklearn
+numpy
+pandas
+argparse
+jellyfish
+
+flask
