@@ -77,7 +77,12 @@ For choosing server option, you need to insert json format with method POST
 ## Improve performance of program
 * Improve filter POS speed
 * Multi processing of spacy model
+* Model of Alibaba
 ## Improve accuracy
 * Re-training Sbert
 * Preprocessing with Regex
 * Preprocessing HTML file
+* Preprocessing PDF file
+## Next steps
+* Language detection
+* Topic detection
